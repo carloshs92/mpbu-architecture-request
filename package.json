@@ -1,0 +1,27 @@
+{
+  "name": "mpbu-architecture-request",
+  "version": "1.0.0",
+  "description": "Some ideas about how to handle requests with different technologies",
+  "main": "init.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "ts-node init.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloshs92/mpbu-architecture-request.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloshs92/mpbu-architecture-request/issues"
+  },
+  "homepage": "https://github.com/carloshs92/mpbu-architecture-request#readme",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^0.18.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
+}
